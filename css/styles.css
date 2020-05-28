@@ -36,6 +36,11 @@ p{
   font-size: 120%;
 }
 
+.college{
+  width: 12%;
+  padding: 10px 40px;
+}
+
 .eighth{
   width: 12%;
   padding: 35px 40px;
@@ -154,7 +159,6 @@ p{
 }
 
 .final-college-div{
-
 }
 /*-----------------Bottom Container--------------*/
 .bottom-container{
