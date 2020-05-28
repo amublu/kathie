@@ -1,0 +1,170 @@
+body{
+  margin: 0;
+  text-align: center;
+  position: relative;
+
+}
+
+h1{
+  font-family: 'sadmachine', sans-serif;
+
+}
+
+h2{
+  font-family: 'sadmachine', sans-serif;
+  text-align: center;
+  color: #9ea9f0;
+  font-size: 3rem;
+}
+
+hr{
+  border-style: dotted;
+  border-bottom: none;
+  height: 0;
+  width: 15%;
+  border-width: 15px;
+  border-color: #e6e4f2;
+  margin-top: 50px;
+}
+
+p{
+  font-family: 'Quicksand', sans-serif;
+  /* display: inline-block; */
+  padding: 2% 0;
+  width: 100%;
+  text-align: justify;
+  font-size: 120%;
+}
+
+.eighth{
+  width: 12%;
+  padding: 35px 40px;
+
+}
+
+.h2-2001{
+  margin-top: 110px;
+}
+
+
+.mountain{
+  width: 60%;
+  margin: 0;
+  padding-top: 50px;
+  position: relative;
+  top: 4px;
+}
+
+.main{
+  background-color: #9ea9f0;
+  padding-top: 70px;
+
+}
+
+.names{
+  color: black;
+  margin-top: 100px;
+  margin-bottom: 0;
+}
+
+.title{
+  font-family: 'SadMachine', sans-serif;
+  margin: 0;
+  margin-top: 0;
+  padding-bottom: 20px;
+  text-align: center;
+  font-size: 650%;
+  display: inline-block;
+}
+
+.our-names{
+  text-align: center;
+  margin: 0;
+  font-size: 120%;
+  font-family: 'Nunito', sans-serif;
+  padding-bottom: 100px;
+  line-height: 1.5rem;
+  width: 100%;
+}
+
+.porter-left{
+  width: 20%;
+  position: absolute;
+  left: 20px;
+  display: inline-block;
+  margin-top: 55px;
+}
+
+.porter-right{
+  width: 20%;
+  position: absolute;
+  right: 20px;
+  display: inline-block;
+  margin-top: 55px;
+}
+
+.press-play{
+  color: black;
+  font-size: 250%;
+  font-style: oblique;
+  font-family: 'sadMachine', sans-serif;
+}
+
+.kindergarten{
+  margin: 50px auto;
+
+
+}
+
+/* .kindergarten-row{
+  padding: 2% 0;
+  width: 60%;
+  text-align: center;
+} */
+
+.kindergarten-text{
+  line-height: 2rem;
+  margin: auto;
+  width: 60%;
+
+}
+
+.cool-things{
+  width: 60%;
+  margin: 0 auto;
+  text-align: left;
+  font-family: 'sadMachine', sans-serif;
+  font-size: 2rem;
+}
+
+.cool-h2{
+  text-align: left;
+  font-size: 2.5rem;
+  margin-bottom: 0;
+}
+
+.cool-list{
+  width: 80%;
+  margin-left: 8%;
+}
+
+.final-college-paragraph{
+ font-size: 120%;
+}
+
+.final-college-div{
+
+}
+/*-----------------Bottom Container--------------*/
+.bottom-container{
+  background-color: #9ea9f0;
+  position: absolute;
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
+}
+
+.footer-copyright{
+  text-align: center;
+  margin: 0 auto;
+}
